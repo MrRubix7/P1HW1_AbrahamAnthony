@@ -1,6 +1,6 @@
  # Your Name: Antony Abraham
  # Date: 15 JUNE 2026
- # Assignment Name: P2HW2
+ # Assignment Name: P1HW1
  # A brief description of the project: Assignment tests student's knowledge of how to write code that collects information from user, processes information collected and display 
 
 print("-----Calculating Exponents-----\n")
